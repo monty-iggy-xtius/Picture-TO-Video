@@ -14,7 +14,7 @@ python3 main.py -h #displays the help menu
 ```
 
 ## Author name
-[ignatius](https://github.com/monty-iggy-xtius/flask-File-Server.git)
+[ignatius](https://github.com/monty-iggy-xtius/Picture-TO-Video.git)
 
 ## Live link
 ## Contact information
